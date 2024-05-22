@@ -12,8 +12,8 @@
 
  <div>
 <a href="https://github.com/alexandrermo">
+  <img align="left"  height="150rem" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrermo&theme=dark&border=61dafb&hide_border=true" />
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrermo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrermo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
