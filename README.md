@@ -5,5 +5,6 @@
 
  ## Ferramentas e Tecnologias
  React, TypeScript, JavaScript, NextJS.
- <i class="devicon-react-original-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+          
 
